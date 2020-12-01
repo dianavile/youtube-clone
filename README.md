@@ -2,7 +2,7 @@
 Create a YouTube Clone with React, Material UI and Firebase
 
 ## Demo
-![Header Component]()
+![Header Component](https://github.com/dianavile/youtube-clone/blob/main/Header%20Component.JPG)
 ![SideBar Component]()
 ![Video Component]()
 - [CodeSandBox]( )
