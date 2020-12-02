@@ -11,12 +11,10 @@ function App() {
       <header className="App-header">
         <Header />
         <div className="app__page">
-          <Categories />
+          {/* <Categories /> */}
           <Sidebar />
-           <Videos />
+          <Videos />
         </div>
-         
-       
       </header>
     </div>
   );
