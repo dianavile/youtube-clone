@@ -72,7 +72,7 @@ function Videos() {
                 image="https://i.ytimg.com/an_webp/u2Ms34GE14U/mqdefault_6s.webp?du=3000&sqp=COzlnv4F&rs=AOn4CLCo2LwZub0RMNN0NYhT75sd0JN8WQ"
             />
             <hr />
-            <h2>Videos</h2>
+            <h2>Recommended Videos</h2>
             {/* TODO: add new video__info */}
             <VideoCard
                 title="Animated Hot Cup of Tea | CSS Animation"

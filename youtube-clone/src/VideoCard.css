@@ -1,3 +1,7 @@
+.div.videoCard {
+    flex: 0.2;
+}
+
 .videoCard {
     margin-bottom: 40px;
     width: 270px; 
