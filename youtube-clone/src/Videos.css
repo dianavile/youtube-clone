@@ -1,4 +1,29 @@
 .videos {
     flex: 0.8;
-    color: red;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+}
+
+.videos > hr {
+    height: 1px; 
+    border: 0; 
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+.h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.videos__videos {
+  display: flex;
+  flex-wrap: wrap;  
+}
+
+.h2,
+.VideoCard{
+    flex: 0.2;
 }
