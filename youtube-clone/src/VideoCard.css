@@ -1,13 +1,11 @@
 .video-section {
   display: flex;
   overflow: hidden;
-  height: 99%;
 }
 
 .div.videoCard {
     flex: 0.2;
 }
-
 
 .videoCard {
     margin-bottom: 40px;
@@ -35,11 +33,11 @@
 }
 
 .videoCard__text > p {
-    font-size: 14px;
+    font-size: 12px;
     color: gray; 
 }
 
 .videoCard__avatar {
     height: 0px !important;
-    width: 30px !important; 
+    width: 20px !important; 
 }
