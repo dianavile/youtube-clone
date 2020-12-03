@@ -18,6 +18,7 @@ function Videos() {
                     <button className="videos__category">React</button>
                 </section>
             </div>
+            <h2>Recommendad Videos</h2>
             <div className="videos__videos">
                 <VideoCard
                     title="Cup of Tea | CSS Animation"

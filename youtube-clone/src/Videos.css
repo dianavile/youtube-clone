@@ -1,6 +1,8 @@
 
 .videos__category-section{
-  width: 100%;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
 }
 
 .videos__category{
@@ -52,20 +54,19 @@
   border: 0; 
   background-color: lightgray;
   margin-top: 10px;
-  margin-bottom: 10px; 
 }
 
-/* .h2{
-  margin-left: 5px;
+.h2{
   margin-bottom: 20px;
-} */
+} 
 
 .videos__videos {
   display: flex;
-  flex-wrap: wrap;  
+  flex-wrap: wrap; 
+  justify-content: space-around; 
 }
 
 .h2,
 .VideoCard{
-    flex: 0.3;
+  flex: 0.3;
 }
