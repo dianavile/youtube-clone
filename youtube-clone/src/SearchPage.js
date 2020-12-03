@@ -55,7 +55,7 @@ function SearchPage() {
                 description="Enroll in My Course: Next Level CSS Animation and Hover Effects..."
                 timestamp="3 months ago"
                 channel="Online Tutorials"
-                title="Build a Complete REsponsive Portfolio"
+                title="Build a Complete Responsive Portfolio"
                 image="https://i.ytimg.com/an_webp/UnlXPMKB-wE/mqdefault_6s.webp?du=3000&sqp=CPrLo_4F&rs=AOn4CLDnmWbQ2fZE5trTZ_ca1Vda2uPyaA"
             />         
         </div>
