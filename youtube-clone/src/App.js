@@ -1,7 +1,6 @@
 import React from 'react';
 import Header from './Header';
 import Sidebar from './Sidebar';
-import Categories from './Categories';
 import Videos from './Videos';
 import './App.css';
 
