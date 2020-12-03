@@ -4,8 +4,6 @@ Create a YouTube Clone with React, Material UI and Firebase
 ## Demo
 ![YouTube-Clone](https://github.com/dianavile/youtube-clone/blob/main/Youtube.JPG)
 
-- [CodeSandBox]( )
-
 ## Installation
 - [X] Install with ```npx create-react-app youtube-clone```
 
