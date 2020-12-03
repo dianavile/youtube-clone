@@ -21,4 +21,6 @@ Create a YouTube Clone with React, Material UI and Firebase
 - [] TODO: Deploy with [Firebase](https://firebase.google.com/)
 
 
-
+## Resources
+- [Material-Icons](https://material-ui.com/components/material-icons/#material-icons)
+- [React Router](https://reactrouter.com/web/guides/quick-start)
