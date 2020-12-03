@@ -12,7 +12,6 @@ function App() {
         <Header />
         <div className="app__page">
           <Sidebar />
-          <Categories />
           <Videos />
         </div>
       </header>
