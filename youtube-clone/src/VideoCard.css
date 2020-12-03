@@ -1,6 +1,13 @@
+.video-section {
+  display: flex;
+  overflow: hidden;
+  height: 99%;
+}
+
 .div.videoCard {
     flex: 0.2;
 }
+
 
 .videoCard {
     margin-bottom: 40px;

@@ -2,7 +2,7 @@
    display: flex; 
    align-items: center;
    justify-content: space-between;
-   padding: 0px 16px;
+   padding: 1rem;
    position: sticky;
    top: 0;
    z-index: 100;
@@ -10,11 +10,12 @@
 }
 
 .header__logo {
-    height: 25px;
+    height: 20px;
     object-fit: contain;
     margin-left: 20px;
 }
 
+/* searchbar */
 .header__input{
     display: flex;
     align-items: center;
@@ -33,11 +34,17 @@
   color: gray;
 }
 
+.header__inputButton:hover {
+  background-color: lightgray;
+}
+
+/* icons */
 .header__icons{
     display: flex; 
     align-items: center;
-    padding: 16px;
+    padding: 1rem;
     color: #606060;
+    gap: 1.5rem;
 }
 
 .header__input > input{

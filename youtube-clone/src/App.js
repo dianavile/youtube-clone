@@ -11,8 +11,8 @@ function App() {
       <header className="App-header">
         <Header />
         <div className="app__page">
-          {/* <Categories /> */}
           <Sidebar />
+          <Categories />
           <Videos />
         </div>
       </header>

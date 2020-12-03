@@ -1,4 +1,13 @@
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
 .app__page{
     display: flex;
-    
 }
