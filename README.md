@@ -1,7 +1,8 @@
 # youtube-clone
 Create a YouTube Clone with React, Material UI and Firebase
 
-## Demo
+## Demo 
+on [CodeSandBox]()
 ![YouTube-Clone](https://github.com/dianavile/youtube-clone/blob/main/Youtube.JPG)
 ![SearchPage](https://github.com/dianavile/youtube-clone/blob/main/SearchPage.JPG)
 
@@ -18,8 +19,6 @@ Create a YouTube Clone with React, Material UI and Firebase
 - [X] Videolist with videoCategories and videoCards
 - [X] TODO: Add  YouTube Search
 - [X] TODO: Add  React Router
-- [] TODO: Deploy with [Firebase](https://firebase.google.com/)
-
 
 ## Resources
 - [Material-Icons](https://material-ui.com/components/material-icons/#material-icons)
