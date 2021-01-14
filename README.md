@@ -1,5 +1,5 @@
 # youtube-clone
-Create a YouTube Clone with React, Material UI and Firebase
+Create a YouTube Clone with React, Material UI
 
 ## Demo 
 on [CodeSandBox]()
