@@ -41,8 +41,7 @@ function Header() {
                     alt="Diana Vilé"
                     src="https://avatars2.githubusercontent.com/u/25930085?s=60&amp;v=4"
                 />
-            </div>
-            
+            </div>  
         </div>
     )
 }
