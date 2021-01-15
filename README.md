@@ -2,7 +2,6 @@
 Create a YouTube Clone with React, Material UI
 
 ## Demo 
-on [CodeSandBox]()
 ![YouTube-Clone](https://github.com/dianavile/youtube-clone/blob/main/Youtube.JPG)
 ![SearchPage](https://github.com/dianavile/youtube-clone/blob/main/SearchPage.JPG)
 
