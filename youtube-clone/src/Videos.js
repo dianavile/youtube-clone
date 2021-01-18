@@ -26,7 +26,7 @@ function Videos() {
                     timestamp="1 Dec 2020"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngFCKugZwen-81xq0K_0tSU6HQZsvjQ26xsQzO7zg=s88-c-k-c0x00ffffff-no-rj"
                     channel="Online Tutorials"
-                    // image="https://i.ytimg.com/an_webp/_jOqYe0eFqY/mqdefault_6s.webp?du=3000&sqp=CP70ov4F&rs=AOn4CLAfkN-nyFm-2e6rxIOoqrw1vFBELA"
+                    image="https://commons.wikimedia.org/wiki/Category:Animated_SVG#/media/File:AnimateColor_with_SVG.svg"
                 />
                 <VideoCard
                     title="Create Login Page in Figma"
@@ -34,7 +34,7 @@ function Videos() {
                     timestamp="29 Nov 2020"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngS0Yuirc3JNT9Wyi2woGUiIbcSKIneeZAZM2610Q=s88-c-k-c0x00ffffff-no-rj"
                     channel="Geek Deelino"
-                    // image="https://i.ytimg.com/an_webp/h0zMNxRIbMc/mqdefault_6s.webp?du=3000&sqp=CMOOo_4F&rs=AOn4CLBa8HfC_-Q9cpXiJoBUUz9yvR4aoA"
+                    image="https://en.wikipedia.org/wiki/Figma_(software)#/media/File:Figma-logo.svg"
                 />
                 <VideoCard
                     title="5 tips for Junior Developers"
@@ -42,7 +42,7 @@ function Videos() {
                     timestamp="30 june 2020"
                     channelImage="https://yt3.ggpht.com/a-/AOh14GhbDrzOoSOGjl4O-SO-SgJa2QT6tqokF0RLsQ=s68-c-k-c0x00ffffff-no-rj-mo"
                     channel="Honeypot"
-                    // image="https://i.ytimg.com/an_webp/n18iJYxWy3w/mqdefault_6s.webp?du=3000&sqp=CLzpov4F&rs=AOn4CLAPX_Q72LMpSo28MvOyydmWLrUnYA"
+                    image="https://en.wikipedia.org/wiki/Programmer#/media/File:Two_women_operating_ENIAC_(full_resolution).jpg"
                 />
                 <VideoCard
                     title="React Tutorial For Beginners"
@@ -50,7 +50,7 @@ function Videos() {
                     timestamp="30 July 2020"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnjI1e_kjzToMdbPML1lfLgJxlArNmMbklUQYDsJ2Q=s48-c-k-c0xffffffff-no-rj-mo"
                     channel="Dev Ed"
-                    // image="https://i.ytimg.com/an_webp/dGcsHMXbSOA/mqdefault_6s.webp?du=3000&sqp=CPCXo_4F&rs=AOn4CLAn_eJELRnPTwwNcAirIR95klBZ1Q"
+                    image="https://en.wikipedia.org/wiki/React_(web_framework)#/media/File:React-icon.svg"
                 />
                 <VideoCard
                     title="A day in the life of a UX Designer"
@@ -58,7 +58,7 @@ function Videos() {
                     timestamp="10 Mar 2018"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngvqNWJ7gYhQ5QshFdSEHnjaSSJSdBnQltVvI1REQ=s88-c-k-c0x00ffffff-no-rj"
                     channel="chunbuns"
-                    // image="https://i.ytimg.com/an_webp/Ecmg8nsRKlM/mqdefault_6s.webp?du=3000&sqp=CKzlov4F&rs=AOn4CLCK8PixxT2T2ECbXShRcn7q163W4w"
+                    image="https://en.wikipedia.org/wiki/File:DesignThinking.ogv"
                 />
                 <VideoCard
                     title="VS Code on my Phone"
@@ -66,7 +66,7 @@ function Videos() {
                     timestamp="2 Dec 2020"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnhzN4GyOzPtFT_oTtOOj9nKkY8FnrLI-DgpjwzYnw=s48-c-k-c0xffffffff-no-rj-mo"
                     channel="Adrian Twarog"
-                    // image="https://i.ytimg.com/an_webp/UFxVvrrufsA/mqdefault_6s.webp?du=3000&sqp=CPCXo_4F&rs=AOn4CLBfem1DicR3ML59E3oqdZVSWW0avw"
+                    image="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:VS_Code_(Insiders).png"
                 />
                 <VideoCard
                     title="Responsive Web Design"
@@ -74,7 +74,7 @@ function Videos() {
                     timestamp="29 Nov 2020"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnjp7T7bz_3yFeJWsLo8Pr2pTEVssg9qEYkJ84Ve=s48-c-k-c0xffffffff-no-rj-mo"
                     channel="Bedimcode"
-                    // image="https://i.ytimg.com/an_webp/5RIFrZEjURA/mqdefault_6s.webp?du=3000&sqp=CICHo_4F&rs=AOn4CLCu-sgtx0Ay9y_Jfe22nIiBY40lxw"
+                    image="https://en.wikipedia.org/wiki/Responsive_web_design#/media/File:Content-is-like-water.svg"
                 />
                 <VideoCard
                     title="¿Qué son las APIs y para qué sirven?"
@@ -82,7 +82,7 @@ function Videos() {
                     timestamp="5 Apr 2019"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnhRL1PzyIR4qftWnofOtsyvheGq_wQpMe1XVOJ7YQ=s48-c-k-c0xffffffff-no-rj-mo"
                     channel="EDteam"
-                    // image="https://i.ytimg.com/an_webp/u2Ms34GE14U/mqdefault_6s.webp?du=3000&sqp=CPKSo_4F&rs=AOn4CLDllOGK2Q8zWl8egOBrVnmXfK_VPQ"
+                    image="https://en.wikipedia.org/wiki/API#/media/File:Univac_1108_Census_Bureau.jpg"
                 />
             </div>
             <hr/>

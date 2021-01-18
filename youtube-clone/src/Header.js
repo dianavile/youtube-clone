@@ -30,13 +30,13 @@ function Header() {
                     type="text"
                 />
                 <Link to={`/search/${inputSearch}`}>
-                    <SearchIcon className="header__inputButton" />
+                <SearchIcon className="header__inputButton" />
                 </Link>   
             </div>
             <div className="header__icons">
-                <VideoCallSharpIcon className="header__icons"/>
-                <AppsIcon className="header__icons"/>
-                <NotificationsIcon className="header__icons"/>
+                <VideoCallSharpIcon className="header__icon"/>
+                <AppsIcon className="header__icon"/>
+                <NotificationsIcon className="header__icon"/>
                 <Avatar
                     alt="Diana Vilé"
                     src="https://avatars2.githubusercontent.com/u/25930085?s=60&amp;v=4"
